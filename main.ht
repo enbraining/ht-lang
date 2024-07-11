@@ -1,0 +1,8 @@
+print("hello\n\n");
+print("hello\n");
+print("hello\n");
+print("hello");
+prisism("asdf")
+prisism("asdf")
+prisism("asdf")
+print("hello");
